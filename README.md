@@ -9,4 +9,5 @@ ADFM - PA_02_neural_network_from_scratch.ipynb
 <img width="1862" height="560" alt="ESQUEMAS DE LEARNING (MINIBATCH, BATCH,STOCHASTIC)" src="https://github.com/user-attachments/assets/020ba185-7169-456e-82bb-a59aa83a2b52" />
 <img width="1606" height="656" alt="LOOP DE ENTRENAMIENTO IMAGEN 1" src="https://github.com/user-attachments/assets/d1c297a7-3143-47be-8384-b2b632bd5b1b" />
 <img width="1600" height="670" alt="LOOP DE ENTRENAMIENTO IMAGEN 2" src="https://github.com/user-attachments/assets/1432ab9c-a543-42af-b98d-1cd5d654430d" />
+<img width="1240" height="864" alt="EPOCAS Y ESQUEMAS" src="https://github.com/user-attachments/assets/2461a5c5-dee9-4f1f-b030-1c3d87cc973b" />
 
