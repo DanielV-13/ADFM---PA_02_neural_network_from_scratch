@@ -6,3 +6,5 @@ ADFM - PA_02_neural_network_from_scratch.ipynb
 <img width="1024" height="311" alt="DIAGRAMA DE ARQUITECTURA DE LA RED NEURONAL" src="https://github.com/user-attachments/assets/9cde1bac-a934-4878-b450-5e4d5c94149c" />
 <img width="1024" height="367" alt="FUNCIONES DE ACTIVIACION (RELU Y SIGMOIDE)" src="https://github.com/user-attachments/assets/9103e390-89b1-41b8-aef4-dce20c61e6fd" />
 <img width="1024" height="559" alt="IMAGEN de diagnositco de las LEARNING CURVES" src="https://github.com/user-attachments/assets/0d1f29c0-49c3-40c5-b8b5-4cf7435bfb6a" />
+<img width="1862" height="560" alt="ESQUEMAS DE LEARNING (MINIBATCH, BATCH,STOCHASTIC)" src="https://github.com/user-attachments/assets/020ba185-7169-456e-82bb-a59aa83a2b52" />
+
