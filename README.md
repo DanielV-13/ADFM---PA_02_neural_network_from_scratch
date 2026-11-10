@@ -7,4 +7,6 @@ ADFM - PA_02_neural_network_from_scratch.ipynb
 <img width="1024" height="367" alt="FUNCIONES DE ACTIVIACION (RELU Y SIGMOIDE)" src="https://github.com/user-attachments/assets/9103e390-89b1-41b8-aef4-dce20c61e6fd" />
 <img width="1024" height="559" alt="IMAGEN de diagnositco de las LEARNING CURVES" src="https://github.com/user-attachments/assets/0d1f29c0-49c3-40c5-b8b5-4cf7435bfb6a" />
 <img width="1862" height="560" alt="ESQUEMAS DE LEARNING (MINIBATCH, BATCH,STOCHASTIC)" src="https://github.com/user-attachments/assets/020ba185-7169-456e-82bb-a59aa83a2b52" />
+<img width="1606" height="656" alt="LOOP DE ENTRENAMIENTO IMAGEN 1" src="https://github.com/user-attachments/assets/d1c297a7-3143-47be-8384-b2b632bd5b1b" />
+<img width="1600" height="670" alt="LOOP DE ENTRENAMIENTO IMAGEN 2" src="https://github.com/user-attachments/assets/1432ab9c-a543-42af-b98d-1cd5d654430d" />
 
