@@ -10,4 +10,6 @@ ADFM - PA_02_neural_network_from_scratch.ipynb
 <img width="1606" height="656" alt="LOOP DE ENTRENAMIENTO IMAGEN 1" src="https://github.com/user-attachments/assets/d1c297a7-3143-47be-8384-b2b632bd5b1b" />
 <img width="1600" height="670" alt="LOOP DE ENTRENAMIENTO IMAGEN 2" src="https://github.com/user-attachments/assets/1432ab9c-a543-42af-b98d-1cd5d654430d" />
 <img width="1240" height="864" alt="EPOCAS Y ESQUEMAS" src="https://github.com/user-attachments/assets/2461a5c5-dee9-4f1f-b030-1c3d87cc973b" />
+<img width="2236" height="480" alt="DROPOUT ESQUEMA GENERAL" src="https://github.com/user-attachments/assets/6abe0f88-ebdd-425e-adfc-0640651ba3c0" />
+<img width="1357" height="768" alt="ESCALADO DEL DROPOUT" src="https://github.com/user-attachments/assets/815801cd-7e10-43c1-ab51-e71c57e3f7fc" />
 
