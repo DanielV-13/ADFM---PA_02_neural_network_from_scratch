@@ -12,4 +12,6 @@ ADFM - PA_02_neural_network_from_scratch.ipynb
 <img width="1240" height="864" alt="EPOCAS Y ESQUEMAS" src="https://github.com/user-attachments/assets/2461a5c5-dee9-4f1f-b030-1c3d87cc973b" />
 <img width="2236" height="480" alt="DROPOUT ESQUEMA GENERAL" src="https://github.com/user-attachments/assets/6abe0f88-ebdd-425e-adfc-0640651ba3c0" />
 <img width="1357" height="768" alt="ESCALADO DEL DROPOUT" src="https://github.com/user-attachments/assets/815801cd-7e10-43c1-ab51-e71c57e3f7fc" />
+<img width="1372" height="768" alt="METRICAS DE PERFORMANCE ROC CURVE ESPAÑOL" src="https://github.com/user-attachments/assets/bb54808d-35a6-4936-bb54-a7980d52ea39" />
+<img width="1372" height="768" alt="METRICAS DE PERFORMANCE ROC CURVE" src="https://github.com/user-attachments/assets/b6469a52-2c42-40ff-a8c3-84723f9ec47c" />
 
