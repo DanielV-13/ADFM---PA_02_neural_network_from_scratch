@@ -14,4 +14,5 @@ ADFM - PA_02_neural_network_from_scratch.ipynb
 <img width="1357" height="768" alt="ESCALADO DEL DROPOUT" src="https://github.com/user-attachments/assets/815801cd-7e10-43c1-ab51-e71c57e3f7fc" />
 <img width="1372" height="768" alt="METRICAS DE PERFORMANCE ROC CURVE ESPAÑOL" src="https://github.com/user-attachments/assets/bb54808d-35a6-4936-bb54-a7980d52ea39" />
 <img width="1372" height="768" alt="METRICAS DE PERFORMANCE ROC CURVE" src="https://github.com/user-attachments/assets/b6469a52-2c42-40ff-a8c3-84723f9ec47c" />
+<img width="1907" height="560" alt="IMAGEN MACHINE LEARNING EN FISICA DE PARTICULAS" src="https://github.com/user-attachments/assets/d308ed40-d0df-47a4-8651-6b72e7776f17" />
 
