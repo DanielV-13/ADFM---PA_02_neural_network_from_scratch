@@ -18,5 +18,6 @@ ADFM - PA_02_neural_network_from_scratch.ipynb
 <img width="1380" height="768" alt="LIMPIEZA DE DATOS" src="https://github.com/user-attachments/assets/8253f367-d18c-4d11-aaa4-e871b8b4c4e2" />
 <img width="1849" height="576" alt="CURVA ROC, MATRIZ DE CONFUSION Y AUC EXPLICADAS" src="https://github.com/user-attachments/assets/33856160-e36a-48d5-b871-4dd9352b1439" />
 <img width="1408" height="768" alt="EXPERIMENTACION" src="https://github.com/user-attachments/assets/092a7c00-b808-41af-835a-c2da30406f7f" />
+<img width="1408" height="768" alt="CURVA ROC Y AUC" src="https://github.com/user-attachments/assets/80703c4a-e256-42f8-9d1b-b179fc6bd6b8" />
 
 
